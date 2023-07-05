@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @VasiliySilver
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Python and JavaScript langs
 - 📫 How to reach me: s555133@mail.ru
 
 <!---
